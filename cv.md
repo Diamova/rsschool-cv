@@ -44,7 +44,7 @@ Medical Institute - General Medicine
 **RS School**
 * JS/FE Pre-School
 
-**Pytnon Generation**
+**Python Generation**
 * [Course for beginers](https://stepik.org/certificate/043d34b7bdb9f585911f68ab2808adf840628836.png?language=en&resolution=low)
 * [Course for advanced](https://stepik.org/certificate/6ac0730327c373c413bf9a2f7d6addd574e1beb5.png?language=en&resolution=low)
 * [Course for professionals](https://stepik.org/certificate/1b395ddfa5cd2d7323106b8d64d541b29870aa9c.png?language=en&resolution=low)
