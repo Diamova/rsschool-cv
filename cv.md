@@ -14,7 +14,7 @@ I started learning programming with Python, then became interested in Frontend d
 * Python
 * PyCharm, VS Code
 * Markdown
-* Git/Github
+* Git/GitHub
 ***
 ### Code
 Pete likes to bake some cakes. He has some recipes and ingredients. Unfortunately he is not good in maths. Can you help him to find out, how many cakes he could bake considering his recipes?
@@ -33,3 +33,20 @@ def cakes(recipie: dict, avaliable: dict) -> int:
     return min(cakes_amount)
 ```
 ***
+### Education
+**Orel State University named after I.S. Turgenev**
+Medical Institute - General Medicine
+2019 - to date
+
+### Courses
+**RS School**
+* JS/FE Pre-School
+
+**Pytnon Generation**
+* [Course for beginers](https://stepik.org/certificate/043d34b7bdb9f585911f68ab2808adf840628836.png?language=en&resolution=low)
+* [Course for advanced](https://stepik.org/certificate/6ac0730327c373c413bf9a2f7d6addd574e1beb5.png?language=en&resolution=low)
+* [Course for professionals](https://stepik.org/certificate/1b395ddfa5cd2d7323106b8d64d541b29870aa9c.png?language=en&resolution=low)
+***
+### Languages
+* English - A2 (Pre-Intermediate)
+* Russian - native
