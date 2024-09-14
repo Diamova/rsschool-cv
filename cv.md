@@ -35,7 +35,9 @@ def cakes(recipie: dict, avaliable: dict) -> int:
 ***
 ### Education
 **Orel State University named after I.S. Turgenev**
+
 Medical Institute - General Medicine
+
 2019 - to date
 
 ### Courses
